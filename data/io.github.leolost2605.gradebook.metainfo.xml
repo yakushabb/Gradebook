@@ -24,6 +24,7 @@
   <developer_name>Leonhard Kargl</developer_name>
 
   <launchable type="desktop-id">io.github.leolost2605.gradebook.desktop</launchable>
+  <translation type="gettext">io.github.leolost2605.gradebook</translation>
   <screenshots>
     <screenshot type="default">
       <caption>The start page of the app</caption>
