@@ -66,6 +66,9 @@
   </releases>
 
   <url type="homepage">https://github.com/leolost2605/Gradebook</url>
+  <url type="bugtracker">https://github.com/leolost2605/Gradebook/issues</url>
+  <url type="vcs-browser">https://github.com/leolost2605/Gradebook</url>
+  <url type="translate">https://github.com/leolost2605/Gradebook/tree/main/po</url>
 
   <content_rating type="oars-1.0" />
 </component>
