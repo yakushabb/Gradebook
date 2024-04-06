@@ -22,6 +22,9 @@
   </description>
   
   <developer_name>Leonhard Kargl</developer_name>
+  <developer id="io.github.leolost2605">
+      <name>Leonhard Kargl</name>
+  </developer>
 
   <launchable type="desktop-id">io.github.leolost2605.gradebook.desktop</launchable>
   <translation type="gettext">io.github.leolost2605.gradebook</translation>
